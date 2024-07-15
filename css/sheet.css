@@ -1,0 +1,149 @@
+html {
+    color: white;
+    background-image: url(imgs/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0);
+}
+
+.button:hover {
+    transform: scale(1.1);
+    text-transform:uppercase;
+}
+
+.spoiler {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.966);
+    border: solid rgba(0, 0, 0, 0.952) 10px;
+    opacity: 0.05;
+}
+
+.spoiler:hover {
+    color: white;
+    opacity: 1;
+}
+
+.ending {
+    height: 70%;
+    width: 70%;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    border-radius: 50%;
+}
+
+.mini {
+    width: 30%;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.full {
+    background-color: rgb(50, 48, 65);
+    align-content: center;
+    height: 30%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 10px;
+    border-color: rgb(36, 33, 56);
+}
+
+.vlittle {
+    height: 17px;
+    width: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.full {
+    position: relative;
+    z-index: 1;
+    box-shadow: 0px 0px 40px 20px rgb(75, 81, 99);
+}
+
+.bigbox {
+    width: 10%;
+    height: 10%;
+}
+
+.goodlink {
+    text-decoration: none;
+    color: rgb(207, 207, 207);
+    
+}
+
+.title {
+    display: block;
+    margin: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tcenter {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.align {
+    text-align: center;
+}
+
+.borderfy {
+    border: solid rgb(46, 46, 75);
+}
+
+.little {
+    width: 40px;
+    height: 50px;
+}
+
+.precos {
+    border: solid rgb(61, 68, 102);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 500px;
+}
+
+.chars {
+    border: solid rgb(61, 68, 102);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 500px;
+}
+
+.areas {
+    width: 200px;
+    height: 150px;
+}
